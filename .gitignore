@@ -8,3 +8,8 @@
 # Virtual Environment
 venv
 venv[23]
+
+# Build files
+build
+dist
+easyforces.egg-info
