@@ -1,0 +1,10 @@
+# Editors
+.idea
+*.swp
+
+# Python Byte Files
+*.py[co]
+
+# Virtual Environment
+venv
+venv[23]
